@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_Bone1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Bone1",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

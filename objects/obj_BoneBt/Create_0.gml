@@ -1,0 +1,19 @@
+/// @description 
+image_xscale = 2;
+image_yscale = 2;
+image_index = 18;
+image_speed = 0;
+name = "Bone";
+hp = 100;
+TempDialog = "";
+Spare = false;
+Fuck_Off = -1;
+dodge = -1;
+hurt = -1;
+run = -1;
+Dig = -1;
+Out = -1;
+font = fnt_wingdings;
+Attacks = ["Bone1", "Bone2"];
+AttackUse = "";
+commands = ["Check", "Translate"];
